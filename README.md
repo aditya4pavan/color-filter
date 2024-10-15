@@ -28,3 +28,7 @@ Please provide permissions to Camera, this application moves the flame based on 
 
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/adf15c91-755d-402a-8d0c-d7f3101c32cf">
 
+### TODO
+
+#### Smooth Out Movement
+#### Add Animation for Burning 
